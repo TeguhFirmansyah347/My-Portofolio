@@ -1,0 +1,14 @@
+img {
+    object-fit: cover;
+}
+
+body {
+    background-color: bisque;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.493);
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
